@@ -20,7 +20,7 @@ This Solar System Simulator is a 3D visualization tool implemented in C using Op
 1. Ensure you have OpenGL and the GLUT library installed on your system.
 2. Compile the code using a C compiler. For example, using GCC:
    
-gcc -o solar_system_simulator solarsystem.cpp -lGL -lGLU -lglut
+      gcc -o solar_system_simulator solarsystem.cpp -lGL -lGLU -lglut
 
 4. Run the compiled program:
 
