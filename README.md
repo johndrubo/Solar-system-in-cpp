@@ -37,6 +37,8 @@ Once you run the program, a window displaying the solar system will appear. The 
 - `draw()`: The main function that draws the entire scene including planets, their orbits, and the sun.
 - `update()`: Updates the angles and scales for the animation, creating the effect of planetary motion.
 
+
+
 ## Contributing
 Contributions to this project are welcome. Please ensure to follow the project's coding standards and submit your pull requests for review.
 
